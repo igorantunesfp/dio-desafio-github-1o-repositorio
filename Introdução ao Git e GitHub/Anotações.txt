@@ -1,0 +1,1 @@
+Como adicionar elementos do git local para o github (servidor)
